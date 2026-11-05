@@ -1,0 +1,7 @@
+{
+  "name": "PANDEY JI - Premium Batches",
+  "description": "Explore and enroll in premium exam preparation batches with PANDEY JI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
